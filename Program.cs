@@ -8,6 +8,7 @@ class Program
 
     static void Main(string[] args)
     {
+        //Console.Clear();
         Console.WriteLine("Input");
         if(rating.GetLength() == 0){
             string Input_Name = InputName();
@@ -76,6 +77,4 @@ class Program
         }
         return 0;
     }
-
-    
 }
