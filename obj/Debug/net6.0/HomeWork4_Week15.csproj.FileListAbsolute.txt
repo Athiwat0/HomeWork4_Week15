@@ -1,0 +1,15 @@
+D:\KMUTT-Coding\HomeWork4_Week15\bin\Debug\net6.0\HomeWork4_Week15.exe
+D:\KMUTT-Coding\HomeWork4_Week15\bin\Debug\net6.0\HomeWork4_Week15.deps.json
+D:\KMUTT-Coding\HomeWork4_Week15\bin\Debug\net6.0\HomeWork4_Week15.runtimeconfig.json
+D:\KMUTT-Coding\HomeWork4_Week15\bin\Debug\net6.0\HomeWork4_Week15.dll
+D:\KMUTT-Coding\HomeWork4_Week15\bin\Debug\net6.0\HomeWork4_Week15.pdb
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\HomeWork4_Week15.csproj.AssemblyReference.cache
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\HomeWork4_Week15.GeneratedMSBuildEditorConfig.editorconfig
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\HomeWork4_Week15.AssemblyInfoInputs.cache
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\HomeWork4_Week15.AssemblyInfo.cs
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\HomeWork4_Week15.csproj.CoreCompileInputs.cache
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\HomeWork4_Week15.dll
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\refint\HomeWork4_Week15.dll
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\HomeWork4_Week15.pdb
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\HomeWork4_Week15.genruntimeconfig.cache
+D:\KMUTT-Coding\HomeWork4_Week15\obj\Debug\net6.0\ref\HomeWork4_Week15.dll
